@@ -3,6 +3,7 @@
 
 CAbility::CAbility(){
 
+//KUPA!
 	speed = 15; //smaller the better!
 	capacity = 3;
 	attack = 15;
