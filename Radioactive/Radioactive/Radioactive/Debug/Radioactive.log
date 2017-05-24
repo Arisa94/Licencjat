@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstRPG.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ttf.cpp
+  Main.cpp
+e:\uj fais\licencjat\radioactive\radioactive\radioactive\building.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Radioactive.cpp
+  Radioactive.vcxproj -> E:\UJ FAIS\LICENCJAT\Radioactive\Radioactive\Debug\Radioactive.exe
